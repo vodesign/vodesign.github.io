@@ -1,0 +1,22 @@
+body{
+
+  text-align: center;
+  background: black;
+  background-size: cover;
+  color: #FFFFFF;
+  font-family:Helvetica;
+
+}
+h1{font-weight: bold;
+font-size: 36px;
+text-transform: uppercase;}
+img{"images/background_1.jpg");}
+hr{
+  width: 400px;
+}
+p {text-align:center;
+  font-size: 22px;
+  font-style: italic;
+}
+#slogan {color: red}
+}
