@@ -1,0 +1,33 @@
+@import url (https://fonts.googleapis.com/css?family=Open+Sans);
+body{
+
+  text-align: center;
+  background: black;
+  background-size: cover;
+  color: #FFFFFF;
+  font-family:Helvetica;
+
+}
+h1{font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+font-size: 36px;
+font-style: sans-serif;
+text-transform: uppercase;}
+img{"images/background_1.jpg");}
+hr{
+  width: 400px;
+}
+p {	
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  text-align:center;
+  font-size: 22px;
+
+}
+#slogan {color: red;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  text-align:center;
+  font-size: 22px;
+ font-style: italic;}
+}
