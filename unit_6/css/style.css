@@ -1,0 +1,160 @@
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size:18px;
+  text-align: center;
+}
+#wrapper{
+  margin: 0 auto;
+  width: 960px;
+  background-color: #000000;
+}
+header {
+  background-color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-size: 36px;
+  font-color: #FFEFD5;
+}
+img {
+  display: block;
+  margin: 2em
+  padding 10px;
+  width: 100%;
+}
+h1
+{
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  border-bottom: 4px solid black;
+  display: inline-block;
+  font-weight: 800;
+  font-size: 36px;
+  text-align: center;
+  color: #FFEFD5;
+  float:none;
+  width: 100%;
+}
+nav {
+  background-color: #696969;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-weight: lighter;
+  font-size: 2em;
+}
+nav a {
+  float: none;
+  padding: 5px 10px;
+  color: #ffffff;
+  text-decoration: none;
+  margin: 1.8em;
+  display: inline-block;
+}
+
+nav a:hover { 
+  background-color: #C0C0C0;
+  font-color:#FF0000;
+  display: inline-block;
+  border-left: 1px solid #fff;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  content: " ";
+  clear: both;
+  height: 0;
+  font-size: 0;
+}
+#hero{
+  background-color: #000000;
+  align-content: center;
+}
+#one {
+  display:block;
+  margin: 0 auto;
+  background-color: #696969;
+  overflow: auto;
+}
+.column {
+ font-size: 1.2em;
+  width: 46%;
+  padding:2%;
+  display: inline-block;
+  margin: 0;
+}
+#projects {
+background-color: #696969;
+font-size: 18px;
+text-transform: uppercase;
+text-align: center;
+padding: 10 10px;
+margin: 2 10px;
+float: left;
+}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  content: " ";
+  clear: both;
+  height: 0;
+  font-size: 0;
+}
+h2 {
+  font-weight: lighter;
+  display: inline-block;
+  font-weight: 800;
+  text-transform: uppercase;
+  border-bottom: 20px;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+li{
+  color: #F5F5F5;
+  float:left;
+  width: 50%;
+  height: 6em;
+  text-align: center;
+  line-height: 6em;
+}
+li a:hover {
+  background-color: #C0C0C0;
+  font-color:#FF0000;
+  display: inline-block;
+}
+#about {
+background-color: #696969;
+font-size: 20px;
+padding: 10px;
+margin: 0 10px;
+float: left;
+}
+#slogan {
+  color:red;
+  text-align: center;
+  font-size: 22px;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-family: 'Open Sans', sans-serif;
+  text-align: justify;
+  padding: 20px;
+  font-color: #C0C0C0;
+}
+footer {
+background-color: #C0C0C0;
+border: 1px black solid;
+padding: 20px;
+font-size: 16px;
+text-align: center;
+clear:both;
+}
+br {
+  width: 200px;
+}
